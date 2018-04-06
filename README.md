@@ -1,9 +1,11 @@
 # Canada House Price Prediction (v0)
 
-### Purpose: Predict what the value of a house should be.
+### Purpose: 
+Predict what the value of a house should be.
 
 
-### Dataset: A list of text files about historical residential real estate sales data from the MLS Calgory.
+### Dataset: 
+A list of text files about historical residential real estate sales data from the MLS Calgory.
 
 
 ### 1. Technical decisions
